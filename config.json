@@ -1,6 +1,6 @@
 {
   "name": "Cornerstone",
-  "version": "2.2.0",
+  "version": "2.4.0-rc.2",
   "meta": {
     "price": 0,
     "documentation_url": "https://support.bigcommerce.com/articles/Public/Cornerstone-Theme-Manual",
@@ -68,6 +68,7 @@
     "show_accept_paypal": false,
     "show_accept_visa": false,
     "show_product_details_tabs": true,
+    "show_product_reviews_tabs": false,
     "show_product_weight": true,
     "show_product_dimensions": false,
     "product_list_display_mode": "grid",
